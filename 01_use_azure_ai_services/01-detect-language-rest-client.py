@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+import ssl
 import os, http.client, json
 
 
@@ -30,7 +31,9 @@ def get_language(text):
 
         # construct REST http request
         uri = ai_endpoint.rstrip("/").replace("https://", "")
-        conn = http.client.HTTPSConnection(uri)
+        conn = http.client.HTTPSConnection(
+            uri, context=ssl._create_unverified_context()
+        )
 
         # add auth key to request header
         headers = {
