@@ -9,6 +9,8 @@
 # Dependencies that we'll use:
 ##  azure-identity==1.5.0
 ##  azure-keyvault-secrets==4.2.0
+# Might first need:
+## pip install setuptools
 
 from dotenv import load_dotenv
 import os
