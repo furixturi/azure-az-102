@@ -1,0 +1,1 @@
+ curl -X POST "http://az-102-ai-services-container.czcnaxbmb9f4g0cs.japaneast.azurecontainer.io:5000/text/analytics/v3.0/languages" -H "Content-Type: application/json" --data-ascii "{'documents':[{'id':1,'text':'Hello world.'},{'id':2,'text':'Salut tout le monde.'}]}"
