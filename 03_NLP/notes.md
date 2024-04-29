@@ -1,0 +1,11 @@
+- Exercises
+  - Repo: https://github.com/MicrosoftLearning/mslearn-ai-language
+  - Instructions: https://microsoftlearning.github.io/mslearn-ai-language/
+    - [01 analyze text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/01-analyze-text.html)
+    - [02 create a question answering solution](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-qna.html)
+    - [03 build a conversational language understanding model](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/03-language-understanding.html)
+    - [04 custom text classification](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/04-text-classification.html)
+    - [05 extract custom entities](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/05-extract-custom-entities.html)
+    - [06 translate text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/06-translate-text.html)
+    - [07 recognize and synthesize speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/07-speech.html)
+    - [08 translate speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/08-translate-speech.html)
