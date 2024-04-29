@@ -2,3 +2,4 @@ venv/
 .env
 *secret*
 .DS_Store
+*.pyc
